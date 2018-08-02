@@ -34,7 +34,7 @@ jobs:
       - attach_workspace:
           at: .
       - run: mkdir -p /tmp/artifacts
-      - run: cd build && tar -czf /tmp/artifacts/privacy-policy-`cat ../tag`.tag.gz *
+      - run: cd build && tar -czf /tmp/artifacts/privacy-policy-`cat ../tag`.tar.gz *
       - store_artifacts:
           path: /tmp/artifacts
       - persist_to_workspace:
