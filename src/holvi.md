@@ -21,7 +21,7 @@ Rahastonhoitaja Okko-Pekka Klemola
 
 ## 3. Rekisterin nimi
 
-Teekkarispeksi ry:n Holvi -palvelun maksutiedot
+Teekkarispeksi ry:n Holvi-palvelun maksutiedot
 
 ## 4. Oikeusperuste ja henkilötietojen käsittelyn tarkoitus
 
