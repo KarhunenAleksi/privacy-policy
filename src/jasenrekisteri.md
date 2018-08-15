@@ -16,7 +16,7 @@ Y-tunnus: 1888541-7
 
 ## 2. Rekisteristä vastaava yhteyshenkilö
 
-Sihteeri Paavo Kekkonen  
+Sihteeri Anna Kuronen  
 [sihteeri@teekkarispeksi.fi](mailto:sihteeri@teekkarispeksi.fi)
 
 ## 3. Rekisterin nimi

@@ -1,5 +1,5 @@
 ---
-title: Tietosuojaseloste - Holvi palvelun maksutiedot
+title: Tietosuojaseloste - Holvi-palvelun maksutiedot
 css: https://rekisterit.teekkarispeksi.fi/style.css
 ---
 
@@ -16,12 +16,12 @@ Y-tunnus: 1888541-7
 
 ## 2. Rekisteristä vastaava yhteyshenkilö
 
-Rahastonhoitaja Marko Saari  
+Rahastonhoitaja Okko-Pekka Klemola 
 [rahastonhoitaja@teekkarispeksi.fi](mailto:rahastonhoitaja@teekkarispeksi.fi)
 
 ## 3. Rekisterin nimi
 
-Teekkarispeksi ry:n Holvi -palvelun maksutieodt
+Teekkarispeksi ry:n Holvi -palvelun maksutiedot
 
 ## 4. Oikeusperuste ja henkilötietojen käsittelyn tarkoitus
 
