@@ -16,7 +16,7 @@ Y-tunnus: 1888541-7
 
 ## 2. Rekisteristä vastaava yhteyshenkilö
 
-Rahastonhoitaja Okko-Pekka Klemola 
+Rahastonhoitaja Okko-Pekka Klemola  
 [rahastonhoitaja@teekkarispeksi.fi](mailto:rahastonhoitaja@teekkarispeksi.fi)
 
 ## 3. Rekisterin nimi
