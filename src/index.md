@@ -9,8 +9,10 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 * [Lippukaupan asiakasrekisteri](https://rekisterit.teekkarispeksi.fi/lippukauppa)
 * [Produktion osallistujarekisteri](https://rekisterit.teekkarispeksi.fi/produktio)
 * [Tapahtumien osallistujarekisteri](https://rekisterit.teekkarispeksi.fi/tapahtumat)
+* [Kurssien osallistujarekisteri](https://rekisterit.teekkarispeksi.fi/kurssit)
 * [Intran käyttäjärekisteri](https://rekisterit.teekkarispeksi.fi/intra)
 * [Holvin käyttäjärekisteri](https://rekisterit.teekkarispeksi.fi/holvi)
+* [Teekkarispeksistä kiinnostuneiden rekisteri](https://rekisterit.teekkarispeksi.fi/kiinnostuneet)
 
 Tietosuojaan ja henkilötietojen käsittelyyn liittyvissä asiossa voit olla yhteydessä Teekkarispeksi ry:n hallitukseen [hallitus@teekkarispeksi.fi](mailto:hallitus@teekkarispeksi.fi).
 
