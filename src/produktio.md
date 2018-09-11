@@ -38,9 +38,8 @@ Rekisteriin tallennetaan seuraavat tiedot:
   * Puhelinnumero
   * Allergiat ja erityisruokavaliot
   * Henkilön kiinnostuksen kohteet
-  * Nimimerkki Telegram-viestisovelluksessa
 
-Näistä oikeutettuun etuun perustuen tallennetaan vain nimi, sähköpostiosoite, puhelinnumero, nimimerkki sekä kiinnostuksen kohteet. Allergiat ja erityisruokavaliot tallennetaan vain rekisteröidyn suostumuksella.
+Näistä oikeutettuun etuun perustuen tallennetaan vain nimi, sähköpostiosoite, puhelinnumero sekä kiinnostuksen kohteet. Allergiat ja erityisruokavaliot tallennetaan vain rekisteröidyn suostumuksella.
 
 ## 6. Säännönmukaiset tietolähteet
 
