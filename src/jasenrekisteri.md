@@ -6,7 +6,7 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 Tämä on EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste.
 
 Laatimispäivämäärä: 17.5.2018  
-Viimeisin muutos: 21.5.2018
+Viimeisin muutos: 11.9.2018
 
 ## 1. Rekisterinpitäjä
 
@@ -47,7 +47,7 @@ Rekisteriin tallennettavat tiedot saadaan yhdistyksen jäseniksi hakevilta sähk
 
 Tiedot säilytetään sähköisessä muodossa pilvipalvelussa. Palvelu toteuttaa asianmukaisen sähköisen suojauksen ja käsittelijät tunnistetaan henkilökohtaisella käyttäjätunnuksella ja salasanalla.
 
-Rekisterin tietoihin on pääsy vain Teekkarispeksi ry:n hallituksen jäsenillä.
+Rekisterin tietoihin on pääsy vain Teekkarispeksi ry:n hallituksen jäsenillä ja tietohallintovastaavalla.
 
 ## 8. Rekisterin tietojen säilytysaika
 

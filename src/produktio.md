@@ -6,7 +6,7 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 Tämä on EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste.
 
 Laatimispäivämäärä: 21.5.2018  
-Viimeisin muutos: 21.5.2018
+Viimeisin muutos: 11.9.2018
 
 ## 1. Rekisterinpitäjä
 
@@ -39,7 +39,7 @@ Rekisteriin tallennetaan seuraavat tiedot:
   * Allergiat ja erityisruokavaliot
   * Henkilön kiinnostuksen kohteet
 
-Näistä oikeutettuun etuun perustuen tallennetaan vain nimi, sähköpostiosoite, puhelinnumero, sekä kiinnostuksen kohteet. Allergiat ja erityisruokavaliot tallennetaan vain rekisteröidyn suostumuksella.
+Näistä oikeutettuun etuun perustuen tallennetaan vain nimi, sähköpostiosoite, puhelinnumero sekä kiinnostuksen kohteet. Allergiat ja erityisruokavaliot tallennetaan vain rekisteröidyn suostumuksella.
 
 ## 6. Säännönmukaiset tietolähteet
 
@@ -49,7 +49,7 @@ Rekisteriin tallennettavat tiedot saadaan rekisteröidyiltä sähköisellä loma
 
 Tiedot säilytetään sähköisessä muodossa pilvipalvelussa. Palvelu toteuttaa asianmukaisen sähköisen suojauksen ja käsittelijät tunnistetaan henkilökohtaisella käyttäjätunnuksella ja salasanalla.
 
-Rekisterin tietoihin on pääsy Teekkarispeksi ry:n hallituksen jäsenillä, prodution tuottajilla, sekä produktion tapahtumissa ruoanlaitosta vastaavilla henkilöillä.
+Rekisterin tietoihin on pääsy Teekkarispeksi ry:n hallituksen jäsenillä, tietohallintovastaavalla, produktion tuottajilla, sekä produktion tapahtumissa ruoanlaitosta vastaavilla henkilöillä.
 
 Rekisteröidyn luovuttamia yhteystietoja käytetään vain produktion virallisissa tiedotteissa.
 

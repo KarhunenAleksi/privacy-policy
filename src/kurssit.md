@@ -6,7 +6,7 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 Tämä on EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste.
 
 Laatimispäivämäärä: 2.9.2018
-Viimeisin muutos: 2.9.2018
+Viimeisin muutos: 11.9.2018
 
 ## 1. Rekisterinpitäjä
 
@@ -32,10 +32,13 @@ Rekisteriin kerättyjä yhteystietoja käytetään vain kursseihin liittyvään 
 ## 5. Rekisterin tietosisältö
 
 Rekisteriin tallennetaan seuraavat tiedot:
-Nimi
-Sähköpostiosoite
-Puhelinnumero
-Kurssi
+* Nimi
+* Sähköpostiosoite
+* Puhelinnumero
+* Kurssitiedot
+* Teekkarispeksin jäsenyys
+* Lajitausta
+* Nimimerkki Telegram-viestisovelluksessa
 
 ## 6. Säännönmukaiset tietolähteet
 
