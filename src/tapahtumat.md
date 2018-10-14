@@ -6,7 +6,7 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 Tämä on EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste.
 
 Laatimispäivämäärä: 21.5.2018  
-Viimeisin muutos: 11.9.2018
+Viimeisin muutos: 13.10.2018
 
 ## 1. Rekisterinpitäjä
 
@@ -33,13 +33,14 @@ Alleriga ja erityisruokavaliotiedot kerätään vain jos tapahtumassa tarjoillaa
 
 ## 5. Rekisterin tietosisältö
 
-Rekisteriin tallennetaan seuraavat tiedot:
+Rekisteriin tallennetaan, tapahtumasta riippuen, seuraavia tietoja:
 
   * Nimi
   * Sähköpostiosoite
   * Puhelinnumero
   * Allergiat ja erityisruokavaliot
   * Yhdistyksen jäsenyys
+  * Vaihtuva tapahtumakohtainen lisätieto
 
 ## 6. Säännönmukaiset tietolähteet
 
