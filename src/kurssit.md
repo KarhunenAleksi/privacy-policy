@@ -31,14 +31,15 @@ Rekisteriin kerättyjä yhteystietoja käytetään vain kursseihin liittyvään 
 
 ## 5. Rekisterin tietosisältö
 
-Rekisteriin tallennetaan seuraavat tiedot:
-* Nimi
-* Sähköpostiosoite
-* Puhelinnumero
-* Kurssitiedot
-* Teekkarispeksin jäsenyys
-* Lajitausta
-* Nimimerkki Telegram-viestisovelluksessa
+Rekisteriin tallennetaan seuraavat tiedot: 
+
+  * Nimi
+  * Sähköpostiosoite
+  * Puhelinnumero
+  * Kurssitiedot
+  * Teekkarispeksin jäsenyys
+  * Lajitausta
+  * Nimimerkki Telegram-viestisovelluksessa
 
 ## 6. Säännönmukaiset tietolähteet
 
