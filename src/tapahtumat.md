@@ -38,7 +38,7 @@ Rekisteriin tallennetaan, tapahtumasta riippuen, seuraavia tietoja:
   * Nimi
   * Sähköpostiosoite
   * Puhelinnumero
-  * Allergiat ja erityisruokavaliot ja juomamieltymykset
+  * Allergiat ja erityisruokavaliot
   * Yhdistyksen jäsenyys
   * Vaihtuva tapahtumakohtainen lisätieto
 
