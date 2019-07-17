@@ -16,7 +16,7 @@ Y-tunnus: 1888541-7
 
 ## 2. Rekisteristä vastaava yhteyshenkilö
 
-Sihteeri Anna Kuronen  
+Sihteeri Kuura Parkkola
 [sihteeri@teekkarispeksi.fi](mailto:sihteeri@teekkarispeksi.fi)
 
 ## 3. Rekisterin nimi
