@@ -16,7 +16,7 @@ Y-tunnus: 1888541-7
 
 ## 2. Rekisteristä vastaava yhteyshenkilö
 
-Tuottaja Tommi Byman  
+Tuottaja Minea Jokivuolle  
 [tuottajat@teekkarispeksi.fi](mailto:tuottajat@teekkarispeksi.fi)
 
 ## 3. Rekisterin nimi

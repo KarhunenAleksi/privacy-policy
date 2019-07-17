@@ -16,7 +16,7 @@ Y-tunnus: 1888541-7
 
 ## 2. Rekisteristä vastaava yhteyshenkilö
 
-Puheenjohtaja Roope Vesterinen  
+Puheenjohtaja Mari Pulkkinen  
 [puheenjohtaja@teekkarispeksi.fi](mailto:puheenjohtaja@teekkarispeksi.fi)
 
 ## 3. Rekisterin nimi
