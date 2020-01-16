@@ -20,5 +20,7 @@ echo "Cleaning old files..."
 ssh $HOST "cd $DIR && rm -r *.html"
 echo "Unpacking $FILE..."
 ssh $HOST "cd $DIR && tar -xf $(basename $FILE)"
+echo "Removig tar files..."
+ssh $HOST "cd $DIR && rm *.tar.gz"
 
 echo "Deploy completed!"

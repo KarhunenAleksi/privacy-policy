@@ -7,6 +7,7 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 
 * [Jäsenrekisteri](https://rekisterit.teekkarispeksi.fi/jasenrekisteri)
 * [Lippukaupan asiakasrekisteri](https://rekisterit.teekkarispeksi.fi/lippukauppa)
+* [Lippukaupan tiedotuslista](https://rekisterit.teekkarispeksi.fi/lippukauppa-info)
 * [Produktion osallistujarekisteri](https://rekisterit.teekkarispeksi.fi/produktio)
 * [Tapahtumien osallistujarekisteri](https://rekisterit.teekkarispeksi.fi/tapahtumat)
 * [Kurssien osallistujarekisteri](https://rekisterit.teekkarispeksi.fi/kurssit)

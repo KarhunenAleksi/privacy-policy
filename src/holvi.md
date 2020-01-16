@@ -6,7 +6,7 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 Tämä on EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste.
 
 Laatimispäivämäärä: 24.5.2018  
-Viimeisin muutos: 24.5.2018
+Viimeisin muutos: 17.9.2019
 
 ## 1. Rekisterinpitäjä
 
@@ -25,7 +25,7 @@ Teekkarispeksi ry:n Holvi-palvelun maksutiedot
 
 ## 4. Oikeusperuste ja henkilötietojen käsittelyn tarkoitus
 
-EU:n yleisen tietosuoja-asetuksen mukainen oikeusperuste henkilötietojen käsittelylle on lakisääteinen velvoite
+EU:n yleisen tietosuoja-asetuksen mukainen oikeusperuste henkilötietojen käsittelylle on lakisääteinen velvoite.
 
 Käsittelyn tarkoituksena on täyttää Kirjanpitolain (1336/1997)ja Yhdistyslain (504/1989) asettamat vaatimuksen yhdistyksen kirjanpidosta.
 
