@@ -1,12 +1,12 @@
 ---
-title: Tietosuojaseloste - Lippukaupan asiakasrekisteri
+title: Tietosuojaseloste - Lippukaupan tiedotuslista
 css: https://rekisterit.teekkarispeksi.fi/style.css
 ---
 
 Tämä on EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste.
 
-Laatimispäivämäärä: 21.5.2018  
-Viimeisin muutos: 17.9.2019
+Laatimispäivämäärä: 17.1.2020
+Viimeisin muutos: 17.1.2020
 
 ## 1. Rekisterinpitäjä
 
@@ -21,13 +21,13 @@ Tuottaja Minea Jokivuolle
 
 ## 3. Rekisterin nimi
 
-Teekkarispeksi ry:n lippukaupan asiakasrekisteri
+Teekkarispeksi ry:n lippukaupan tiedotuslista
 
 ## 4. Oikeusperuste ja henkilötietojen käsittelyn tarkoitus
 
-EU:n yleisen tietosuoja-asetuksen mukainen oikeusperuste henkilötietojen käsittelylle on rekisterinpitäjän oikeutettu etu. 
+EU:n yleisen tietosuoja-asetuksen mukainen oikeusperuste henkilötietojen käsittelylle on rekisteröidyn suostumus.
 
-Rekisterin tarkoituksena on tallettaa lippukaupan asiakastiedot myyntitapahtuman jälkikäteen todentamista varten, sekä mahdollisten ongelmatilanteiden ratkaisemiseksi.
+Rekisterin tarkoituksena on ylläpitää listaa lippukaupan tiedotusviestin tilanneista henkilöistä. Listalle lähetetään tiedotteita vain Teekkarispeksi ry:n tulevista produktioista ja yhdistyksen isännöimistä vierailunäytöksistä.
 
 ## 5. Rekisterin tietosisältö
 
@@ -35,24 +35,21 @@ Rekisteriin tallennetaan seuraavat tiedot:
 
   * Asiakkaan nimi
   * Sähköpostiosoite
-  * Ostetut tuotteet
-  * Osto- ja maksutapahtuman yksilöivät tunnisteet
+  * Suostumus vastaanottaa tiedotusviestejä
 
 ## 6. Säännönmukaiset tietolähteet
 
-Rekisteriin tallennettavat tiedot kerätään rekisteröidyltä ostotapahtuman yhteydessä sähköisellä lomakkeella. Osto- ja maksutapahtumaan liittyvät tunnisteet luodaan automaattisesti, joko lippukauppaohjelmiston tai maksupalveluntarjoajan toimesta.
+Rekisteriin tallennettavat tiedot kerätään rekisteröidyltä lippukaupassa tehtävän ostotapahtuman yhteydessä sähköisellä lomakkeella.
 
 ## 7. Tietojen säilytys ja käsittely
 
-Tiedot säilytetään sähköisessä muodossa Teekkarispeksi ry:n hallinnoimalla virtuaalipalvelimella. Palvelu toteuttaa asianmukaisen sähköisen suojauksen ja käsittelijät tunnistetaan henkilökohtaisella käyttäjätunnuksella ja salasanalla.
+Tiedot säilytetään sähköisessä muodossa pilvipalvelussa. Palvelu toteuttaa asianmukaisen sähköisen suojauksen ja käsittelijät tunnistetaan henkilökohtaisella käyttäjätunnuksella ja salasanalla.
 
 Rekisterin tietoihin on pääsy hallituksen jäsenillä, sekä lipunmyynnistä vastaavilla henkilöillä.
 
 ## 8. Rekisterin tietojen säilytysaika
 
-Rekisterissä säilytetään vain Teekkarispeksi ry:n asiakastietoja. Rekisteröidyn tiedot anonymisoidaan viimeistään 12 kuukauden kuluttua tapahtuman lipunmyynnin päättymisestä.
-
-Poikkeustilanteessa rekisteröidyn tietoja voidaan säilyttää pidempään. Tällöin rekisteröidylle ilmoitetaan pidennetystä säilytysajasta ja sen perusteista.
+Rekisterissä säilytetään vain Teekkarispeksi ry:n lippukaupan kautta listan tilanneiden henkilöiden tietoja. Tiedot säilytetään toistaiseksi, ja poistetaan rekisteröidyn pyynnöstä.
 
 ## 9. Tietojen luovuttaminen ja tietojen siirto EU:n tai ETA:n ulkopuolelle
 
