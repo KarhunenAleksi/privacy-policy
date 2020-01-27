@@ -56,7 +56,7 @@ Rekisteröidyn luovuttamia yhteystietoja käytetään vain produktion virallisis
 ## 8. Rekisterin tietojen säilytysaika
 
 Rekisterissä säilytetään Teekkarispeksi ry:n produktiosta kiinnostuneiden, sekä produktiota tekemässä olevien henkilöiden tiedot.
-Rekisteröidyn tiedot poistetaan 12 kuukauden kuluessa produktion päättymisestä.
+Rekisteröidyn tiedot sähköpostiosoitetta lukuunottamatta poistetaan 12 kuukauden kuluessa produktion päättymisestä. Sähköpostiosoite poistetaan 3 vuoden kuluessa produktion päättymisestä.
 
 Poikkeustilanteessa rekisteröidyn tietoja voidaan säilyttää pidempään. Tällöin rekisteröidylle ilmoitetaan pidennetystä säilytysajasta ja sen perusteista.
 
