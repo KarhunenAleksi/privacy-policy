@@ -6,7 +6,7 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 Tämä on EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste.
 
 Laatimispäivämäärä: 21.5.2018  
-Viimeisin muutos: 17.9.2019
+Viimeisin muutos: 30.1.2020
 
 ## 1. Rekisterinpitäjä
 
@@ -56,7 +56,7 @@ Rekisteröidyn luovuttamia yhteystietoja käytetään vain produktion virallisis
 ## 8. Rekisterin tietojen säilytysaika
 
 Rekisterissä säilytetään Teekkarispeksi ry:n produktiosta kiinnostuneiden, sekä produktiota tekemässä olevien henkilöiden tiedot.
-Rekisteröidyn tiedot poistetaan 12 kuukauden kuluessa produktion päättymisestä.
+Rekisteröidyn tiedot sähköpostiosoitetta lukuunottamatta poistetaan 12 kuukauden kuluessa produktion päättymisestä. Sähköpostiosoite poistetaan 3 vuoden kuluessa produktion päättymisestä.
 
 Poikkeustilanteessa rekisteröidyn tietoja voidaan säilyttää pidempään. Tällöin rekisteröidylle ilmoitetaan pidennetystä säilytysajasta ja sen perusteista.
 
