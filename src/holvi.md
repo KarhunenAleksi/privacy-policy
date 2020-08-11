@@ -16,8 +16,8 @@ Y-tunnus: 1888541-7
 
 ## 2. Rekisteristä vastaava yhteyshenkilö
 
-Rahastonhoitaja Jarkko Jalovaara  
-[rahastonhoitaja@teekkarispeksi.fi](mailto:rahastonhoitaja@teekkarispeksi.fi)
+Sihteeri Solja Lukka 
+[hallitus@teekkarispeksi.fi](mailto:hallitus@teekkarispeksi.fi)
 
 ## 3. Rekisterin nimi
 

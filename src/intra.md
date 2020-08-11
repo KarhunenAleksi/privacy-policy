@@ -16,8 +16,8 @@ Y-tunnus: 1888541-7
 
 ## 2. Rekisteristä vastaava yhteyshenkilö
 
-Sihteeri Kuura Parkkola
-[sihteeri@teekkarispeksi.fi](mailto:sihteeri@teekkarispeksi.fi)
+Sihteeri Solja Lukka 
+[hallitus@teekkarispeksi.fi](mailto:hallitus@teekkarispeksi.fi)
 
 ## 3. Rekisterin nimi
 
