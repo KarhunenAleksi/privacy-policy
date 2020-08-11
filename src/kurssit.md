@@ -16,8 +16,8 @@ Y-tunnus: 1888541-7
 
 ## 2. Rekisteristä vastaava yhteyshenkilö
 
-Puheenjohtaja Mari Pulkkinen  
-[puheenjohtaja@teekkarispeksi.fi](mailto:puheenjohtaja@teekkarispeksi.fi)
+Sihteeri Solja Lukka 
+[hallitus@teekkarispeksi.fi](mailto:hallitus@teekkarispeksi.fi)
 
 ## 3. Rekisterin nimi
 
