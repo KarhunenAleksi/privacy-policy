@@ -16,7 +16,7 @@ Y-tunnus: 1888541-7
 
 ## 2. Rekisteristä vastaava yhteyshenkilö
 
-Sihteeri Solja Lukka 
+Teekkarispeksi Ry:n hallituksen sihteeri
 [hallitus@teekkarispeksi.fi](mailto:hallitus@teekkarispeksi.fi)
 
 ## 3. Rekisterin nimi
