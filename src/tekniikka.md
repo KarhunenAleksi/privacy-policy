@@ -9,7 +9,7 @@ PL69 02151 Espoo
 Y-tunnus: 1888541-7
 
 2. Rekisteristä vastaava yhteyshenkilö
-Teekkarispeksi Ry:n sihteeri hallitus@teekkarispeksi.fi
+Teekkarispeksi ry:n sihteeri hallitus@teekkarispeksi.fi
 
 3. Rekisterin nimi
 Teekkarispeksi ry:n tekniikkavuokrauksen asiakasrekisteri
