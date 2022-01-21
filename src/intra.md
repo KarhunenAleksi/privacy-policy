@@ -6,7 +6,7 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 Tämä on EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste.
 
 Laatimispäivämäärä: 21.5.2018  
-Viimeisin muutos: 17.9.2019
+Viimeisin muutos: 21.1.2022
 
 ## 1. Rekisterinpitäjä
 
