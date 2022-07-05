@@ -14,6 +14,7 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 * [Intran käyttäjärekisteri](https://rekisterit.teekkarispeksi.fi/intra)
 * [Holvin käyttäjärekisteri](https://rekisterit.teekkarispeksi.fi/holvi)
 * [Teekkarispeksistä kiinnostuneiden rekisteri](https://rekisterit.teekkarispeksi.fi/kiinnostuneet)
+* [Tekniikan asiakasrekisteri](https://rekisterit.teekkarispeksi.fi/tekniikka)
 
 Tietosuojaan ja henkilötietojen käsittelyyn liittyvissä asiossa voit olla yhteydessä Teekkarispeksi ry:n hallitukseen [hallitus@teekkarispeksi.fi](mailto:hallitus@teekkarispeksi.fi).
 
